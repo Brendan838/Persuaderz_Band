@@ -1,0 +1,19 @@
+.card {
+background-color: red;
+
+}
+
+.main-container {
+
+background-color: gray;
+
+
+}
+
+.navbar {
+display: flex;
+width: 100%;
+background-color: purple;
+height: 90%;
+}
+
