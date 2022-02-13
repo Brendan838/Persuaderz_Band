@@ -28,6 +28,12 @@ a {
 
 }
 
+#headerLink {
+color:white;
+text-decoration: none;
+   
+}
+
 /* Same as previous except for hover settings */
 
 a:hover {
